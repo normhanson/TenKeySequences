@@ -1,3 +1,2 @@
 # TenKeySequences
-old hw for an interview i did
-README.txt
+old hw for an interview i did for getco
